@@ -1,218 +1,179 @@
-# 👨‍💻 Rodini Vince Rosario | Portfolio
+👨‍💻 RODINI VINCE ROSARIO | PORTFOLIO
 
-> Welcome to my personal portfolio website! This project showcases my journey as a **Computer Science undergraduate**, highlighting my skills, projects, experience, and passion for building modern web and mobile applications.
+Welcome to my personal portfolio website! 🚀
 
-🌐 **Live Portfolio:** https://da-vincee09.github.io/rodini-rosario-portfolio
+This project showcases my background, technical skills, projects, certifications, and passion for developing modern web and mobile applications.
 
----
+🌐 Live Website
 
-## 📖 About
+https://da-vincee09.github.io/rodini-rosario-portfolio
 
-This portfolio serves as a central hub for my professional profile, featuring my technical skills, academic background, certifications, and software development projects. It was built using the **SnapFolio** Bootstrap template by **BootstrapMade** and extensively customized with my own branding, content, and design enhancements.
+📖 ABOUT
 
-In addition to showcasing my portfolio, this repository also includes a machine learning project on **American Sign Language (ASL) image classification** using an Artificial Neural Network (ANN).
+This portfolio serves as a central hub for my professional profile, featuring my education, technical expertise, software development projects, and career journey.
 
----
+Built using the SnapFolio Bootstrap template by BootstrapMade, the website has been extensively customized with my own branding, content, styling, and enhancements to better represent my work and experience.
 
-## ✨ Features
+✨ FEATURES
 
-* 🏠 Modern landing page with animated typing effect
-* 👨‍💻 Personal profile and career overview
-* 🛠️ Technical skills with proficiency indicators
-* 📄 Downloadable résumé (PDF)
-* 🖼️ Filterable project portfolio
-* 💼 Services offered
-* 📬 Contact form integration
-* 📱 Fully responsive design
-* 🤖 Machine Learning project showcase
+🏠 Modern and responsive portfolio website
 
----
+⌨️ Animated typing effect on the homepage
 
-## 📑 Website Sections
+👨‍💻 Personal profile and career overview
 
-### 🏠 Home
+🛠️ Technical skills showcase
 
-* Professional introduction
-* Animated typing effect
-* Featured roles:
+📄 Downloadable résumé (PDF)
 
-  * 📱 Mobile App Developer
-  * 🌐 Web Developer
+🖼️ Filterable project portfolio
 
-### 👤 About
+💼 Services offered
 
-* Personal profile
-* Educational background
-* Career objectives
-* Languages
-* Quick facts and statistics
+📬 Functional contact form
 
-### 🛠️ Skills
+📑 WEBSITE SECTIONS
 
-**Frontend**
+🏠 Home
+• Professional introduction
+• Animated typing effect
+• Featured developer roles
 
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
-* 💙 Flutter
+👤 About
+• Personal profile
+• Educational background
+• Career summary
+• Languages
+• Quick facts
 
-**Backend & Programming**
+🛠️ Skills
 
-* ☕ Java
-* 💻 C
-* 🗄️ SQL
+Frontend
+• 🌐 HTML5
+• 🎨 CSS3
+• ⚡ JavaScript
+• 💙 Flutter
 
-### 📄 Resume
+Backend & Programming
+• ☕ Java
+• 💻 C
+• 🗄️ SQL
 
-* Professional summary
-* Education
-* Experience
-* Certifications
-* Downloadable PDF résumé
+📄 Resume
+• Professional summary
+• Education
+• Experience
+• Certifications
+• Downloadable résumé
 
-### 💼 Portfolio
+💼 Portfolio
 
-A collection of personal and academic projects, including:
+📱 Mobile Applications
+• Work Myself
+• Meditrack
 
-**📱 Mobile Applications**
+📷 Photography
+• Classroom
+• Windows
+• Grass
+• River
 
-* Work Myself
-* Meditrack
+🚀 Services
+• 📱 Mobile App Development
+• 🌐 Full-Stack Web Development
+• 🗄️ SQL Database Development
 
-**📷 Photography**
+📬 Contact
+• Contact information
+• Contact form powered by FormSubmit
 
-* Classroom
-* Windows
-* Grass
-* River
+🛠️ TECHNOLOGIES USED
 
-### 🚀 Services
+Frontend
+• 🌐 HTML5
+• 🎨 CSS3
+• ⚡ JavaScript
+• 🅱️ Bootstrap 5
+• 🎯 Bootstrap Icons
 
-* 📱 Mobile App Development
-* 🌐 Full-Stack Web Development
-* 🗄️ SQL Database Development
+Libraries
+• ✨ AOS
+• 🖼️ GLightbox
+• 🎠 Swiper
+• ⌨️ Typed.js
+• 🔢 PureCounter
+• 🗂️ Isotope
 
-### 📬 Contact
+📂 PROJECT STRUCTURE
 
-* Contact information
-* Integrated contact form powered by **FormSubmit**
+📁 assets/ Images, CSS, JavaScript, vendor libraries, résumé
 
----
+📁 forms/ Contact form integration
 
-## 🤖 Machine Learning Project
+📄 index.html Homepage
 
-This repository also includes:
+📄 classroom-portfolio-details.html
 
-* 📓 **ANN_Sign_Language_Image_Classifier.ipynb**
+📄 grass-portfolio-details.html
 
-A deep learning project demonstrating **American Sign Language (ASL)** image classification using an **Artificial Neural Network (ANN)**.
+📄 river-portfolio-details.html
 
----
+📄 windows-portfolio-details.html
 
-## 🛠️ Tech Stack
+📄 work-myself-portfolio-details.html
 
-### Frontend
+📄 meditrack-portfolio-details.html
 
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
-* 🅱️ Bootstrap 5
-* 🎯 Bootstrap Icons
+📄 mobile-app-developer-service-details.html
 
-### Libraries & Plugins
+📄 fulll-stack-web-developer-service-details.html
 
-* ✨ AOS (Animate On Scroll)
-* 🖼️ GLightbox
-* 🎠 Swiper
-* ⌨️ Typed.js
-* 🔢 PureCounter
-* 🗂️ Isotope
+📄 sql-service-details.html
 
-### Machine Learning
+📄 README.md
 
-* 🐍 Python
-* 📓 Jupyter Notebook
+📄 Readme.txt
 
----
+🚀 RUNNING LOCALLY
 
-## 📂 Project Structure
+Simply open index.html in your preferred web browser.
 
-```text
-.
-├── assets/                                    # Images, styles, scripts, vendor libraries, resume
-├── forms/                                     # Contact form integration
-├── ANN_Sign_Language_Image_Classifier.ipynb   # Machine Learning project
-├── index.html                                 # Homepage
-├── classroom-portfolio-details.html
-├── grass-portfolio-details.html
-├── river-portfolio-details.html
-├── windows-portfolio-details.html
-├── work-myself-portfolio-details.html
-├── meditrack-portfolio-details.html
-├── mobile-app-developer-service-details.html
-├── fulll-stack-web-developer-service-details.html
-├── sql-service-details.html
-├── README.md
-└── Readme.txt                                 # Original template attribution
-```
+Or serve the project locally.
 
----
+🐍 Python
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/da-vincee09/rodini-rosario-portfolio.git
-```
-
-### Run Locally
-
-Since this is a static website, simply open `index.html` in your preferred web browser.
-
-Or serve it locally using a lightweight server.
-
-### Python
-
-```bash
 python3 -m http.server 8000
-```
 
-### Node.js
+🟢 Node.js
 
-```bash
 npx serve .
-```
 
-Visit:
+Then open:
 
-```text
 http://localhost:8000
-```
 
----
+📬 CONTACT
 
-## 📬 Contact
+📧 Email:
+rodinirosario@gmail.com
 
-* 📧 **Email:** [rodinirosario@gmail.com](mailto:rodinirosario@gmail.com)
-* 🐙 **GitHub:** https://github.com/da-vincee09
-* 💼 **LinkedIn:** *(Add your LinkedIn profile here if available)*
-* 💬 **Messenger:** Available through the portfolio website
-* 📘 **Facebook:** Available through the portfolio website
+🐙 GitHub:
+https://github.com/da-vincee09
 
----
+🌐 Portfolio:
+https://da-vincee09.github.io/rodini-rosario-portfolio
 
-## 🙏 Credits
+🙏 CREDITS
 
-This portfolio is based on the **SnapFolio** Bootstrap template by **BootstrapMade** and has been extensively customized with my own content, projects, styling, and enhancements.
+🎨 Template:
+SnapFolio by BootstrapMade
 
-* 🎨 **Template:** SnapFolio
-* 👨‍💻 **Original Author:** BootstrapMade
-* 🌐 **Template Website:** https://bootstrapmade.com/
-* 📄 **License:** https://bootstrapmade.com/license/
+🌐 https://bootstrapmade.com/
 
----
+The original template has been customized with my own content, projects, styling, and enhancements.
 
-## 📄 License
+📄 DISCLAIMER
 
-This repository is intended for showcasing my personal portfolio and software development projects. The original SnapFolio template remains subject to the BootstrapMade license, while all custom content, projects, and modifications are © Rodini Vince Rosario.
+This repository is intended to showcase my personal portfolio and software development projects.
+
+The original SnapFolio template remains subject to the BootstrapMade license. All custom content, projects, and modifications are created and maintained by Rodini Vince Rosario.
